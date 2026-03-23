@@ -114,4 +114,4 @@ python dmdwAD.py
 ## 👨‍💻 Author
 
 Aditya
-GitHub: https://github.com/YOUR_USERNAM_
+GitHub: https://github.com/AdityaQQ
